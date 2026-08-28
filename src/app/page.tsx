@@ -66,17 +66,16 @@ export default function Home() {
           <div className="wrap">
             <div className="hero-card">
               <div className="hero-copy">
-                <p className="eyebrow">Exclusively for med spas</p>
+                <p className="eyebrow">The agency built solely for medical aesthetics</p>
                 <h1 className="hero-heading">
-                  <span className="tone-a">We only</span>
-                  <span className="tone-b">work with</span>
-                  <span className="tone-a">med spas.</span>
-                  <span className="tone-b">On purpose.</span>
+                  <span className="tone-a">One industry.</span>
+                  <span className="tone-b">One team.</span>
+                  <span className="tone-a">Med spas,</span>
+                  <span className="tone-b">exclusively.</span>
                 </h1>
                 <p className="hero-sub">
-                  Solus runs SEO/GEO, paid media, and web/reporting for aesthetic practices under one calendar — so
-                  growth doesn&apos;t fall through the cracks between three vendors who&apos;ve never spoken to each
-                  other.
+                  Solus handles SEO/GEO, paid media, and web/reporting for aesthetic practices under one roof — so
+                  nothing slips through the gaps between vendors who&apos;ve never once talked to each other.
                 </p>
                 <div className="hero-actions">
                   <a href="#contact" className="btn btn-primary">
